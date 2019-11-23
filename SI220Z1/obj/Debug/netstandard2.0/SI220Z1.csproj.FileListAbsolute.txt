@@ -1,0 +1,9 @@
+C:\Users\usuario\source\repos\SI220Z1\SI220Z1\bin\Debug\netstandard2.0\SI220Z1.deps.json
+C:\Users\usuario\source\repos\SI220Z1\SI220Z1\bin\Debug\netstandard2.0\SI220Z1.dll
+C:\Users\usuario\source\repos\SI220Z1\SI220Z1\bin\Debug\netstandard2.0\SI220Z1.pdb
+C:\Users\usuario\source\repos\SI220Z1\SI220Z1\obj\Debug\netstandard2.0\SI220Z1.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\SI220Z1\SI220Z1\obj\Debug\netstandard2.0\SI220Z1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\SI220Z1\SI220Z1\obj\Debug\netstandard2.0\SI220Z1.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\SI220Z1\SI220Z1\obj\Debug\netstandard2.0\SI220Z1.AssemblyInfo.cs
+C:\Users\usuario\source\repos\SI220Z1\SI220Z1\obj\Debug\netstandard2.0\SI220Z1.dll
+C:\Users\usuario\source\repos\SI220Z1\SI220Z1\obj\Debug\netstandard2.0\SI220Z1.pdb
